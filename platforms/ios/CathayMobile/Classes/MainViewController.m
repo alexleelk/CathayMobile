@@ -171,11 +171,4 @@
     return [super execute:command];
 }
 
-/*
- 设置不显示状态条
- */
-//- (BOOL)prefersStatusBarHidden
-//{
-//    return YES;
-//}
 @end

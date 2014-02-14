@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.cathay.CathayMobile" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>CathayMobile</name>
+    <description>
+        Agency sale and CRM system of Cathay Life Co,.Ltd
+    </description>
+    <author email="alex@cathaylife.cn" href="http://www.cathaylife.cn">
+        Cathay Life Co,.Ltd
+    </author>
+    <content src="index.html" />
+    <access origin="https://*.cathaylife.cn" />
+    <access origin="https://*.52toubao.com" />
+    <access origin="http://10.20.35.1" />
+    <access origin="http://10.20.250.*" />
+</widget>
