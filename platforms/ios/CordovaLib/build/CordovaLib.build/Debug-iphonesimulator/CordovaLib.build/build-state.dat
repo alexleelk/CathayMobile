@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052FCE1EC00000000000003B5
+t1392304620
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052FCE1F400000000000001A0
+t1392304628
+s416
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDV.h
+c0000000052FDBB960000000000000516
+t1392360342
+s1302
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c0000000052FDBB960000000000000CBF
+t1392360342
+s3263
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c0000000052FDBB9600000000000008BA
+t1392360342
+s2234
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c0000000052FDBB960000000000000473
+t1392360342
+s1139
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c0000000052FDBB96000000000000127C
+t1392360342
+s4732
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c0000000052FDBB960000000000000501
+t1392360342
+s1281
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c0000000052FDBB9600000000000017C5
+t1392360342
+s6085
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c0000000052FDBB9600000000000004CB
+t1392360342
+s1227
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c0000000052FDBB960000000000000EB2
+t1392360342
+s3762
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c0000000052FDBB960000000000000401
+t1392360342
+s1025
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c0000000052FDBB9600000000000007E6
+t1392360342
+s2022
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c0000000052FDBB960000000000000DDE
+t1392360342
+s3550
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c0000000052FDBB9600000000000003DA
+t1392360342
+s986
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c0000000052FDBB96000000000000098E
+t1392360342
+s2446
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c0000000052FDBB9600000000000006CF
+t1392360342
+s1743
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c0000000052FDBB960000000000004C7E
+t1392360342
+s19582
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c0000000052FDBB960000000000000892
+t1392360342
+s2194
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c0000000052FDBB9600000000000016AE
+t1392360342
+s5806
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c0000000052FDBB960000000000000C13
+t1392360342
+s3091
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c0000000052FDBB960000000000001B29
+t1392360342
+s6953
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c0000000052FDBB960000000000000408
+t1392360342
+s1032
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.h
+c0000000052FDBB9600000000000003E6
+t1392360342
+s998
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.m
+c0000000052FDBB9600000000000006B6
+t1392360342
+s1718
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c0000000052FDBB96000000000000038D
+t1392360342
+s909
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c0000000052FDBB960000000000000AA2
+t1392360342
+s2722
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c0000000052FDBB96000000000000041C
+t1392360342
+s1052
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c0000000052FDBB960000000000002514
+t1392360342
+s9492
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c0000000052FDBB960000000000000421
+t1392360342
+s1057
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c0000000052FDBB9600000000000012A2
+t1392360342
+s4770
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c0000000052FDBB960000000000000ACC
+t1392360342
+s2764
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c0000000052FDBB96000000000000879D
+t1392360342
+s34717
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c0000000052FDBB9600000000000005A2
+t1392360342
+s1442
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c0000000052FDBB960000000000003804
+t1392360342
+s14340
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c0000000052FDBB9600000000000004B4
+t1392360342
+s1204
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c0000000052FDBB9600000000000027D3
+t1392360342
+s10195
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c0000000052FDBB960000000000000392
+t1392360342
+s914
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c0000000052FDBB9600000000000004D8
+t1392360342
+s1240
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c0000000052FDBB96000000000000037D
+t1392360342
+s893
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c0000000052FDBB9600000000000022CC
+t1392360342
+s8908
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c0000000052FDBB9600000000000005DA
+t1392360342
+s1498
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c0000000052FDBB960000000000001059
+t1392360342
+s4185
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c0000000052FDBB9600000000000003A0
+t1392360342
+s928
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c0000000052FDBB960000000000000584
+t1392360342
+s1412
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c0000000052FDBB960000000000000476
+t1392360342
+s1142
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c0000000052FDBB960000000000000620
+t1392360342
+s1568
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c0000000052FDBB960000000000000346
+t1392360342
+s838
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1392361048
+s63164
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1392361048
+s60168
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1392361048
+s27748
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1392361048
+s18708
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1392361048
+s10864
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1392361048
+s109624
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1392361048
+s59516
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1392361048
+s37228
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1392361048
+s9392
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1392361048
+s22940
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1392361048
+s71232
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1392361048
+s52708
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1392361048
+s162568
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1392361048
+s71308
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1392361048
+s42352
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c0000000052FDBE570000000000000C7B
+t1392361047
+s3195
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1392361048
+s7472
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1392361048
+s11136
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1392361048
+s17844
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1392361048
+s6984
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1392361048
+s9604
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/libCordova.a
+t2
+s0
+
+N/var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch.pch
+t1392361047
+s3202160
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies331605d7f5adb841^3eb320d7f5adb841^---0#1#1#--18"Check dependencies36"3EE7565F-792C-4A31-954A-1459889F788C-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.394244
+e414053848.583899
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m216"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerae0d65d8f5adb841^897a95d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^3772"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"76504E0D-B0F9-4BAA-882B-4B9EAC794CCD-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.344837
+e414053848.536160
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileree7758d8f5adb841^b74189d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3730"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"64B4A3D4-A211-4BB6-B1E8-DBC93A817CB5-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.445526
+e414053848.486205
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler382f72d8f5adb841^b8787cd8f5adb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3730"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"2484561B-EF3F-4A35-9A0C-A1AB541FAE88-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053847.947398
+e414053848.041436
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m212"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6ea6f2d7f5adb841^cbd60ad8f5adb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^3760"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"AEAA6E77-EEBC-43D4-8DBE-F47DC0F2CF97-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.487031
+e414053848.516683
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.m186"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler89d07cd8f5adb841^865584d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3682"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"CB6C7369-D450-40CE-9DD1-C0F1A11BCCB2-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.154700
+e414053848.393475
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler95bb27d8f5adb841^84ba64d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3730"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"17A076C5-8C92-4352-8CA5-85BA1987C124-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.035232
+e414053848.293132
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.m190"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3f3609d8f5adb841^8be14ad8f5adb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3694"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"9801C696-5D08-4FA6-A2BA-B06BCBD900BF-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053847.948871
+e414053848.048874
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b39f3d7f5adb841^23850ed8f5adb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3730"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"EC145CA0-1A03-47B9-BEC8-63A5A31B5F29-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.629154
+e414053848.677796
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.m190"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4431a1d8f5adb841^0186add8f5adb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3694"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"85B541C7-53FF-4E55-B2EC-10E1B58034A5-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.585793
+e414053848.628870
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.m188"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler941696d8f5adb841^11ffa0d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3688"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"6EB515E2-036C-4A58-8AC5-A4B9DDCBB994-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.049177
+e414053848.318266
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m200"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6fb70cd8f5adb841^0c7851d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3724"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"9EC584C2-7E8F-4B01-8F22-06FE99C55A6B-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.517008
+e414053848.724888
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m204"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc89784d8f5adb841^8692b9d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3736"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"FA85ADAA-5564-4176-AA55-45E84F93645F-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.064331
+e414053848.765837
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.m206"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbf9d10d8f5adb841^dc0fc4d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3742"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"57D6725D-B0AE-4162-A65A-4DB747E241A7-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.536444
+e414053848.761610
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m208"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3a7589d8f5adb841^c6fac2d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3748"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"88BA4419-2177-4FF9-A74A-3BE84A284D11-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.041749
+e414053848.154368
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.m196"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler85cf0ad8f5adb841^59e027d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3712"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"7F072350-0C45-4A53-84E2-39EA200730A8-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.318909
+e414053848.344546
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m210"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler50c551d8f5adb841^ec3258d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^3754"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"F30393FF-86B8-4C84-A14D-53A1C6EFF90E-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053847.947925
+e414053848.037493
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.m198"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler15e1f2d7f5adb841^ed9909d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3718"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"BEEB0CD1-2F7B-4E41-92D3-76DAF9EA58DE-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053847.946975
+e414053848.034460
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m218"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler079bf2d7f5adb841^d8d508d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^3778"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"8067AD14-25B2-4CEE-AFB9-AD29F5F83266-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.038167
+e414053848.063663
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m230"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdae309d8f5adb841^d34f10d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^3814"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"A00D704A-CD6E-4CD3-B27B-34F806035B0B-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053848.293607
+e414053848.444790
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m210"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler09504bd8f5adb841^98df71d8f5adb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^3754"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG -include /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"84033E26-D8A1-403A-ACA0-D9EF8F4999C1-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDV.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDV.h
+s414053847.138710
+e414053847.139846
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDV.h107"CpHeader Classes/CDV.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDV.he19623d7f5adb841^b8ce23d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDV.h00341082deffdf42^711"CpHeader Classes/CDV.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDV.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDV.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"C5101F0B-71EE-4865-A588-3178DC26211D-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVAvailability.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s414053847.139034
+e414053847.140753
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h131"CpHeader Classes/CDVAvailability.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h67ba23d7f5adb841^5f0d24d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h00341082deffdf42^747"CpHeader Classes/CDVAvailability.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"FD77B795-1864-43D8-8CD8-3DB4F22E73DD-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s414053847.138084
+e414053847.139170
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h137"CpHeader Classes/CDVCommandDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h7e6f23d7f5adb841^75ab23d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h00341082deffdf42^756"CpHeader Classes/CDVCommandDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"932B632F-30F1-4393-9B05-839130EC5CC1-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s414053847.141335
+e414053847.142620
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h145"CpHeader Classes/CDVCommandDelegateImpl.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h954624d7f5adb841^498624d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h00341082deffdf42^768"CpHeader Classes/CDVCommandDelegateImpl.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"C5B8EBF1-6FC6-4F93-8F99-0031CA2C2014-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVCommandQueue.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s414053847.141082
+e414053847.142683
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h131"CpHeader Classes/CDVCommandQueue.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.hc04024d7f5adb841^b98b24d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h00341082deffdf42^747"CpHeader Classes/CDVCommandQueue.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"7898632F-C35E-4DEF-96EE-5662EDA45B8F-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVConfigParser.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s414053847.142939
+e414053847.144428
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h131"CpHeader Classes/CDVConfigParser.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h36b124d7f5adb841^12fb24d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h00341082deffdf42^747"CpHeader Classes/CDVConfigParser.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"23ECE3BB-822F-4B28-9F83-F750FB8B8F62-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVDebug.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s414053847.135548
+e414053847.137111
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVDebug.h117"CpHeader Classes/CDVDebug.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVDebug.h84d322d7f5adb841^8b3623d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVDebug.h00341082deffdf42^726"CpHeader Classes/CDVDebug.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVDebug.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"A95CB898-C7FC-49DB-B24C-203883CA95CC-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s414053847.131908
+e414053847.134685
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h141"CpHeader Classes/CDVInvokedUrlCommand.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h79ea21d7f5adb841^bb9c22d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h00341082deffdf42^762"CpHeader Classes/CDVInvokedUrlCommand.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"F3E7675B-73EF-481F-86B0-6781B3DDDC32-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVJSON.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s414053847.143145
+e414053847.144885
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVJSON.h115"CpHeader Classes/CDVJSON.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVJSON.h33c124d7f5adb841^b82225d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVJSON.h00341082deffdf42^723"CpHeader Classes/CDVJSON.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVJSON.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"AA83B9C9-381E-4D0A-BBEB-D550E1E6CB81-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVLocalStorage.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s414053847.139269
+e414053847.140772
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h131"CpHeader Classes/CDVLocalStorage.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h79c923d7f5adb841^db1724d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h00341082deffdf42^747"CpHeader Classes/CDVLocalStorage.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"70DFC8B9-9F92-4F9D-B862-A3E2A63A2F22-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVPlugin.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s414053847.135079
+e414053847.136804
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h119"CpHeader Classes/CDVPlugin.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPlugin.hc2c122d7f5adb841^4e0e23d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h00341082deffdf42^729"CpHeader Classes/CDVPlugin.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"A2B25C66-4FE1-4B14-968F-AAD0FFD91861-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVPluginResult.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s414053847.133212
+e414053847.135524
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h131"CpHeader Classes/CDVPluginResult.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h3c2e22d7f5adb841^89ce22d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h00341082deffdf42^747"CpHeader Classes/CDVPluginResult.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"0F4A6ECC-3C52-428B-8038-F852B159926D-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s414053847.142146
+e414053847.142979
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h157"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.ha47124d7f5adb841^6da824d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h00341082deffdf42^786"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"62161543-C85D-4E29-9FF9-B607611F3F48-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVShared.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s414053847.141656
+e414053847.143062
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVShared.h119"CpHeader Classes/CDVShared.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVShared.hf25b24d7f5adb841^3fab24d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVShared.h00341082deffdf42^729"CpHeader Classes/CDVShared.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVShared.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"8FE4DDB5-71D4-45A4-AF79-28A908DD1782-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVTimer.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s414053847.144788
+e414053847.145783
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVTimer.h117"CpHeader Classes/CDVTimer.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVTimer.h1e3225d7f5adb841^4c5225d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVTimer.h00341082deffdf42^726"CpHeader Classes/CDVTimer.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVTimer.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"9646AD3B-7A5A-4EF4-A058-ED0C08FEE021-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVURLProtocol.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s414053847.137211
+e414053847.138402
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h129"CpHeader Classes/CDVURLProtocol.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h634323d7f5adb841^587023d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h00341082deffdf42^744"CpHeader Classes/CDVURLProtocol.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"D2A67C6F-D3D5-499A-B643-E231FA2BC554-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s414053847.144124
+e414053847.145045
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h133"CpHeader Classes/CDVUserAgentUtil.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h84f024d7f5adb841^2f3625d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h00341082deffdf42^750"CpHeader Classes/CDVUserAgentUtil.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"EC7277AA-E22C-489E-8D71-C03A372A9FAD-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVViewController.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s414053847.137702
+e414053847.139035
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVViewController.h135"CpHeader Classes/CDVViewController.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVViewController.hbd5523d7f5adb841^a69823d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVViewController.h00341082deffdf42^753"CpHeader Classes/CDVViewController.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVViewController.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"B7D53F97-1AEF-4D58-86EC-D2C94C2D91DA-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s414053847.143400
+e414053847.144889
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h137"CpHeader Classes/CDVWebViewDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h60ca24d7f5adb841^942e25d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h00341082deffdf42^756"CpHeader Classes/CDVWebViewDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"35E86EA4-963A-4723-A45B-C600893FA84B-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/CDVWhitelist.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s414053847.136408
+e414053847.137615
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h125"CpHeader Classes/CDVWhitelist.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h140423d7f5adb841^975223d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h00341082deffdf42^738"CpHeader Classes/CDVWhitelist.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"900B6A86-1A53-4080-98E4-4FD84D795575-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s414053847.140216
+e414053847.141217
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h139"CpHeader Classes/NSArray+Comparisons.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.hb0fe23d7f5adb841^ff4124d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h00341082deffdf42^759"CpHeader Classes/NSArray+Comparisons.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"B1AF3657-F79B-4167-9D14-921D07FC6042-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/NSData+Base64.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s414053847.132054
+e414053847.134812
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h127"CpHeader Classes/NSData+Base64.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSData+Base64.hdbfa21d7f5adb841^1bb922d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h00341082deffdf42^741"CpHeader Classes/NSData+Base64.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"F4562C43-BE19-4B68-BEAA-3F084111FADB-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s414053847.131764
+e414053847.134674
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h147"CpHeader Classes/NSDictionary+Extensions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h36e621d7f5adb841^5a8022d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h00f416e75ceedf42^771"CpHeader Classes/NSDictionary+Extensions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"221BD0F7-77A7-47AE-899E-580A9E56D1C1-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s414053847.136063
+e414053847.137332
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h159"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h94fa22d7f5adb841^c84323d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h00341082deffdf42^789"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"B38B3B25-EAEA-44B9-A14F-99B1A48997A9-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s414053847.139570
+e414053847.141111
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h139"CpHeader Classes/UIDevice+Extensions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h52d623d7f5adb841^9c3124d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h00341082deffdf42^759"CpHeader Classes/UIDevice+Extensions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include/Cordova36"738B5E35-ACDD-4FD5-AED9-D3D98CA3B41F-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CLibtool /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/libCordova.a normal i386
+s414053848.767329
+e414053848.780781
+r1
+xLibtool
+x/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Libtool /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/libCordova.a normal i38695"Libtool /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/libCordova.a normal i3868480c4d8f5adb841^71e2c7d8f5adb841^---0#0#1#--1044"Libtool /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -filelist /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/libCordova.a36"5FAA8BBF-6AFE-49E9-8255-F93B210EB28A-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
+CProcessPCH /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414053847.146339
+e414053847.945926
+r1
+xProcessPCH
+x/var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch291"ProcessPCH /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0c9325d7f5adb841^5a2bf2d7f5adb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3718"ProcessPCH /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/admin/android/platform-tools:/Users/admin/android/tools"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/admin/Desktop/CathayMobile/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch.d -c /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/20/r1kk681d6212024_7g68z6mw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-awlooxpbsyvxycekmiowjwedediq/CordovaLib_Prefix.pch.pch36"31FB9E96-9F93-4D08-B8D9-678866B878FD-
+b3579C91E-2B22-4ADF-BA5B-2E9872F74E08
+
