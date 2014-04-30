@@ -11,7 +11,7 @@
 		0403960684C640AF85AE5565 /* CDVCapture.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 16BFD83A2F7D4D12BCC39031 /* CDVCapture.bundle */; };
 		0DEE3A7A0F9E4F16A622239B /* CDVLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = A5F853BE1B4745939B04497C /* CDVLogger.m */; };
 		0EB9AA2E44AF4B9798765BC7 /* CDVConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F58B4F012943C8BC43A43F /* CDVConnection.m */; };
-		1D3623260D0F684500981E51 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* AppDelegate.m */; };
+		1D3623260D0F684500981E51 /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* AppDelegate.mm */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1F766FE113BBADB100FB74C0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1F766FDC13BBADB100FB74C0 /* Localizable.strings */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
@@ -48,6 +48,12 @@
 		7E7966E61810823500FA85AD /* icon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DC1810823500FA85AD /* icon-small.png */; };
 		7E7966E71810823500FA85AD /* icon-small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DD1810823500FA85AD /* icon-small@2x.png */; };
 		83D44A15947C4F9FB8C77BAB /* CDVSplashScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 54A2D08C3D43494B8F341B1B /* CDVSplashScreen.m */; };
+		84D04E4F1908B83C0094213B /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D04E4E1908B83C0094213B /* CoreTelephony.framework */; };
+		84D04E511908B85C0094213B /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D04E501908B85C0094213B /* QuartzCore.framework */; };
+		84D04E531908B8810094213B /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D04E521908B8810094213B /* libz.dylib */; };
+		84D04E551908B8920094213B /* libresolv.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D04E541908B8920094213B /* libresolv.dylib */; };
+		84D04E581908B9230094213B /* libWSPX.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D04E561908B9230094213B /* libWSPX.a */; };
+		84F9FCB01908F70C003504F9 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F9FCAF1908F70C003504F9 /* CFNetwork.framework */; };
 		BE7783F61E394D2BAD2E4320 /* CDVReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2B8C73385542659E1F27AB /* CDVReachability.m */; };
 		CCFB1F60AAF84D909BE0011D /* CDVCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B0D47A8628444AD895ECC95 /* CDVCamera.m */; };
 		D26B15E07DB94FEDA0522ED5 /* CDVJpegHeaderWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = C798E73C76AC4044B3D60ACE /* CDVJpegHeaderWriter.m */; };
@@ -83,7 +89,7 @@
 		16BFD83A2F7D4D12BCC39031 /* CDVCapture.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = CDVCapture.bundle; sourceTree = "<group>"; };
 		1B0D47A8628444AD895ECC95 /* CDVCamera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVCamera.m; path = org.apache.cordova.camera/CDVCamera.m; sourceTree = "<group>"; };
 		1D3623240D0F684500981E51 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		1D3623250D0F684500981E51 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = AppDelegate.mm; sourceTree = "<group>"; };
 		1D6058910D05DD3D006BFB54 /* CathayMobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CathayMobile.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D8FF726343A4FC39DABAA2B /* CDVInAppBrowser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDVInAppBrowser.h; path = org.apache.cordova.inappbrowser/CDVInAppBrowser.h; sourceTree = "<group>"; };
 		1F766FDD13BBADB100FB74C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = Localizable.strings; sourceTree = "<group>"; };
@@ -133,6 +139,13 @@
 		7E7966DB1810823500FA85AD /* icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-76@2x.png"; sourceTree = "<group>"; };
 		7E7966DC1810823500FA85AD /* icon-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-small.png"; sourceTree = "<group>"; };
 		7E7966DD1810823500FA85AD /* icon-small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-small@2x.png"; sourceTree = "<group>"; };
+		84D04E4E1908B83C0094213B /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		84D04E501908B85C0094213B /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		84D04E521908B8810094213B /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		84D04E541908B8920094213B /* libresolv.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libresolv.dylib; path = usr/lib/libresolv.dylib; sourceTree = SDKROOT; };
+		84D04E561908B9230094213B /* libWSPX.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libWSPX.a; path = ../../../../../../Documents/maa_sdk_ios_3.3.3.266/libWSPX.a; sourceTree = "<group>"; };
+		84D04E571908B9230094213B /* WSPX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WSPX.h; path = ../../../../../../Documents/maa_sdk_ios_3.3.3.266/WSPX.h; sourceTree = "<group>"; };
+		84F9FCAF1908F70C003504F9 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		8830EEB585EA4C63B97D49E0 /* CDVSound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVSound.m; path = org.apache.cordova.media/CDVSound.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* CathayMobile-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "CathayMobile-Info.plist"; path = "../CathayMobile-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		A5F853BE1B4745939B04497C /* CDVLogger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVLogger.m; path = org.apache.cordova.console/CDVLogger.m; sourceTree = "<group>"; };
@@ -157,12 +170,18 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84F9FCB01908F70C003504F9 /* CFNetwork.framework in Frameworks */,
+				84D04E551908B8920094213B /* libresolv.dylib in Frameworks */,
+				84D04E531908B8810094213B /* libz.dylib in Frameworks */,
+				84D04E511908B85C0094213B /* QuartzCore.framework in Frameworks */,
+				444F067EE6974C0CBF4CDCCA /* SystemConfiguration.framework in Frameworks */,
+				84D04E4F1908B83C0094213B /* CoreTelephony.framework in Frameworks */,
+				84D04E581908B9230094213B /* libWSPX.a in Frameworks */,
 				5B1594DD16A7569C00FEF299 /* AssetsLibrary.framework in Frameworks */,
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
 				305D5FD1115AB8F900A74A75 /* MobileCoreServices.framework in Frameworks */,
 				5AEE5B35173C68D80009041E /* CoreLocation.framework in Frameworks */,
-				444F067EE6974C0CBF4CDCCA /* SystemConfiguration.framework in Frameworks */,
 				F1E66CD77E3C436BAE0617B3 /* ImageIO.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -173,11 +192,13 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				84D04E561908B9230094213B /* libWSPX.a */,
+				84D04E571908B9230094213B /* WSPX.h */,
 				302D95EE14D2391D003F00A1 /* MainViewController.h */,
 				302D95EF14D2391D003F00A1 /* MainViewController.m */,
 				302D95F014D2391D003F00A1 /* MainViewController.xib */,
 				1D3623240D0F684500981E51 /* AppDelegate.h */,
-				1D3623250D0F684500981E51 /* AppDelegate.m */,
+				1D3623250D0F684500981E51 /* AppDelegate.mm */,
 			);
 			name = Classes;
 			path = CathayMobile/Classes;
@@ -252,6 +273,11 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				84F9FCAF1908F70C003504F9 /* CFNetwork.framework */,
+				84D04E541908B8920094213B /* libresolv.dylib */,
+				84D04E521908B8810094213B /* libz.dylib */,
+				84D04E501908B85C0094213B /* QuartzCore.framework */,
+				84D04E4E1908B83C0094213B /* CoreTelephony.framework */,
 				5AEE5B34173C68D80009041E /* CoreLocation.framework */,
 				5B1594DC16A7569C00FEF299 /* AssetsLibrary.framework */,
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
@@ -486,7 +512,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
-				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
+				1D3623260D0F684500981E51 /* AppDelegate.mm in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
 				EF8082AEAF8B41BAB140B293 /* CDVDevice.m in Sources */,
 				0EB9AA2E44AF4B9798765BC7 /* CDVConnection.m in Sources */,
@@ -555,6 +581,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "${ARCHS_STANDARD_32_BIT}";
+				CLANG_CXX_LIBRARY = "libstdc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -565,6 +593,10 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "CathayMobile/CathayMobile-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/admin/Documents/maa_sdk_ios_3.3.3.266,
+				);
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					CoreFoundation,
@@ -580,7 +612,9 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = CathayMobile;
+				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
+				VALID_ARCHS = "armv7 armv7s i386";
 			};
 			name = Debug;
 		};
@@ -588,6 +622,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "${ARCHS_STANDARD_32_BIT}";
+				CLANG_CXX_LIBRARY = "libstdc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -596,6 +632,10 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "CathayMobile/CathayMobile-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/admin/Documents/maa_sdk_ios_3.3.3.266,
+				);
 				OTHER_LDFLAGS = (
 					"-weak_framework",
 					CoreFoundation,
@@ -611,7 +651,9 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = CathayMobile;
+				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
+				VALID_ARCHS = "armv7 armv7s i386";
 			};
 			name = Release;
 		};

@@ -1,8 +1,8 @@
 //全局变量
-//var SRVIP = "https://b2e.cathaylife.cn";
+var SRVIP = "https://b2e.cathaylife.cn";
 //var SRVIP = "http://10.20.35.1";
 //var SRVIP = "http://10.20.250.111:7080";
-var SRVIP = "http://10.20.250.240:7080";
+//var SRVIP = "http://10.20.250.240:7080";
 //var SRVIP = "http://10.20.250.154:7080";
 
 //设定jqm可以跨域访问

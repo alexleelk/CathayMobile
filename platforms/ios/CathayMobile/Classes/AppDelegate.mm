@@ -27,7 +27,7 @@
 
 #import "AppDelegate.h"
 #import "MainViewController.h"
-
+#import "WSPX.h"
 #import <Cordova/CDVPlugin.h>
 
 @implementation AppDelegate
@@ -63,6 +63,10 @@
  */
 - (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSDictionary*)launchOptions
 {
+    // Alex 增加SDN网络加速 2014/4/17
+    [WSPX start];
+    // Alex ---------
+    
     CGRect screenBounds = [[UIScreen mainScreen] bounds];
 
 #if __has_feature(objc_arc)
@@ -91,6 +95,18 @@
     return YES;
 }
 
+// Alex 增加SDN网络加速 2014/4/17
+- (void) applicationWillTerminate:(UIApplication *)application
+{
+    [WSPX stop];
+}
+
+- (void) applicationWillEnterForeground:(UIApplication *)application
+{
+    [WSPX activate];
+}
+// Alex ---------
+
 // this happens while we are running ( in the background, or from within our own app )
 // only valid if CathayMobile-Info.plist specifies a protocol to handle
 - (BOOL)application:(UIApplication*)application handleOpenURL:(NSURL*)url
@@ -110,14 +126,13 @@
 }
 
 // repost the localnotification using the default NSNotificationCenter so multiple plugins may respond
-- (void)            application:(UIApplication*)application
-    didReceiveLocalNotification:(UILocalNotification*)notification
+- (void) application:(UIApplication*)application didReceiveLocalNotification:(UILocalNotification*)notification
 {
     // re-post ( broadcast )
     [[NSNotificationCenter defaultCenter] postNotificationName:CDVLocalNotification object:notification];
 }
 
-- (NSUInteger)application:(UIApplication*)application supportedInterfaceOrientationsForWindow:(UIWindow*)window
+- (NSUInteger) application:(UIApplication*)application supportedInterfaceOrientationsForWindow:(UIWindow*)window
 {
     // iPhone doesn't support upside down by default, while the iPad does.  Override to allow all orientations always, and let the root view controller decide what's allowed (the supported orientations mask gets intersected).
     NSUInteger supportedInterfaceOrientations = (1 << UIInterfaceOrientationPortrait) | (1 << UIInterfaceOrientationLandscapeLeft) | (1 << UIInterfaceOrientationLandscapeRight) | (1 << UIInterfaceOrientationPortraitUpsideDown);
