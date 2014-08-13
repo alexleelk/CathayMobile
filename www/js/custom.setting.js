@@ -1,16 +1,30 @@
 //全局变量
-//var SRVIP = "https://b2e.cathaylife.cn";
+var SRVIP = "https://b2e.cathaylife.cn";
 //var SRVIP = "http://10.20.35.1";
 //var SRVIP = "http://10.20.250.111:7080";
-var SRVIP = "http://10.20.250.240:7080";
-//var SRVIP = "http://10.20.250.154:7080";
 
 //设定jqm可以跨域访问
-$( document ).bind( "mobileinit", function() {
+$(document).bind("mobileinit", function() {
     $.support.cors = true;
     $.mobile.allowCrossDomainPages = true;
 });
 
+$(document).bind("pageinit", function() {
+    //页面初始化后从cookies读取存取在本地的工号和密码
+    try {
+        $("#emp_no").val($.xcookie("userID")[0].value);
+        $("#password").val($.xcookie("passWD")[0].value);
+    } catch (e) {
+        // do nothing
+    }
+
+    //登录按钮，使用tap替代click
+    $("#loginbtn").on("tap", function(){
+        login();
+    });
+});
+
+//登录
 function login(){
     $.mobile.loading('show');
 
@@ -49,12 +63,14 @@ function login(){
         },
         error: function(){
             $.mobile.loading('hide');
-            $('#loginmsg').html("\u767b\u9646\u9519\u8bef\uff0c\u65e0\u6cd5\u8fde\u63a5\u5230\u767b\u5f55\u670d\u52a1\u5668\uff0c\u8bf7\u68c0\u67e5\u7f51\u7edc\u662f\u5426\u53ef\u7528\u3002");//登陆错误，无法连接到登录服务器，请检查网络是否可用。
+            //登陆错误，无法连接到登录服务器，请检查网络是否可用。
+            $('#loginmsg').html("\u767b\u9646\u9519\u8bef\uff0c\u65e0\u6cd5\u8fde\u63a5\u5230\u767b\u5f55\u670d\u52a1\u5668\uff0c\u8bf7\u68c0\u67e5\u7f51\u7edc\u662f\u5426\u53ef\u7528\u3002");
             $("#popupmsg").popup('open');
         }
     })
 }
 
+//装载页面
 function loadPage(link) {
     $.mobile.loading('show');
     $.ajax({
@@ -69,7 +85,8 @@ function loadPage(link) {
         },
         error: function() {
             $.mobile.loading('hide');
-            $('#loginmsg').html("\u8f7d\u5165\u9996\u9875\u9519\u8bef\uff0c\u65e0\u6cd5\u8fde\u63a5\u5230\u670d\u52a1\u5668\uff0c\u8bf7\u68c0\u67e5\u7f51\u7edc\u662f\u5426\u53ef\u7528\uff0c\u6216\u8005\u54a8\u8be21399\u3002");//载入首页错误，无法连接到服务器，请检查网络是否可用，或者咨询1399。
+            //载入首页错误，无法连接到服务器，请检查网络是否可用，或者咨询1399。
+            $('#loginmsg').html("\u8f7d\u5165\u9996\u9875\u9519\u8bef\uff0c\u65e0\u6cd5\u8fde\u63a5\u5230\u670d\u52a1\u5668\uff0c\u8bf7\u68c0\u67e5\u7f51\u7edc\u662f\u5426\u53ef\u7528\uff0c\u6216\u8005\u54a8\u8be21399\u3002");
             $("#popupmsg").popup('open');
         }
     });

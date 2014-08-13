@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.m \
-  /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+  /Users/admin/GitHub/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.m \
+  /Users/admin/GitHub/CathayMobile/platforms/ios/CordovaLib/Classes/CDVWhitelist.h

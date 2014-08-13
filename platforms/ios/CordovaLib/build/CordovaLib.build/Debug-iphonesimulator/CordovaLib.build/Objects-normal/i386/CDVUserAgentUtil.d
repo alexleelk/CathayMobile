@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m \
-  /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+  /Users/admin/GitHub/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m \
+  /Users/admin/GitHub/CathayMobile/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h

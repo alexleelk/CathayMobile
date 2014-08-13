@@ -48,11 +48,11 @@
 		7E7966E61810823500FA85AD /* icon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DC1810823500FA85AD /* icon-small.png */; };
 		7E7966E71810823500FA85AD /* icon-small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DD1810823500FA85AD /* icon-small@2x.png */; };
 		83D44A15947C4F9FB8C77BAB /* CDVSplashScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 54A2D08C3D43494B8F341B1B /* CDVSplashScreen.m */; };
+		84AD26BE1924477200567A9B /* libWSPX.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 84AD26BD1924477200567A9B /* libWSPX.a */; };
 		84D04E4F1908B83C0094213B /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D04E4E1908B83C0094213B /* CoreTelephony.framework */; };
 		84D04E511908B85C0094213B /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D04E501908B85C0094213B /* QuartzCore.framework */; };
 		84D04E531908B8810094213B /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D04E521908B8810094213B /* libz.dylib */; };
 		84D04E551908B8920094213B /* libresolv.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D04E541908B8920094213B /* libresolv.dylib */; };
-		84D04E581908B9230094213B /* libWSPX.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 84D04E561908B9230094213B /* libWSPX.a */; };
 		84F9FCB01908F70C003504F9 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F9FCAF1908F70C003504F9 /* CFNetwork.framework */; };
 		BE7783F61E394D2BAD2E4320 /* CDVReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2B8C73385542659E1F27AB /* CDVReachability.m */; };
 		CCFB1F60AAF84D909BE0011D /* CDVCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B0D47A8628444AD895ECC95 /* CDVCamera.m */; };
@@ -139,12 +139,12 @@
 		7E7966DB1810823500FA85AD /* icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-76@2x.png"; sourceTree = "<group>"; };
 		7E7966DC1810823500FA85AD /* icon-small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-small.png"; sourceTree = "<group>"; };
 		7E7966DD1810823500FA85AD /* icon-small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-small@2x.png"; sourceTree = "<group>"; };
+		84AD26BC1924475800567A9B /* WSPX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WSPX.h; sourceTree = "<group>"; };
+		84AD26BD1924477200567A9B /* libWSPX.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libWSPX.a; sourceTree = "<group>"; };
 		84D04E4E1908B83C0094213B /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
 		84D04E501908B85C0094213B /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		84D04E521908B8810094213B /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		84D04E541908B8920094213B /* libresolv.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libresolv.dylib; path = usr/lib/libresolv.dylib; sourceTree = SDKROOT; };
-		84D04E561908B9230094213B /* libWSPX.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libWSPX.a; path = ../../../../../../Documents/maa_sdk_ios_3.3.3.266/libWSPX.a; sourceTree = "<group>"; };
-		84D04E571908B9230094213B /* WSPX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WSPX.h; path = ../../../../../../Documents/maa_sdk_ios_3.3.3.266/WSPX.h; sourceTree = "<group>"; };
 		84F9FCAF1908F70C003504F9 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		8830EEB585EA4C63B97D49E0 /* CDVSound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVSound.m; path = org.apache.cordova.media/CDVSound.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* CathayMobile-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "CathayMobile-Info.plist"; path = "../CathayMobile-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
@@ -176,8 +176,8 @@
 				84D04E511908B85C0094213B /* QuartzCore.framework in Frameworks */,
 				444F067EE6974C0CBF4CDCCA /* SystemConfiguration.framework in Frameworks */,
 				84D04E4F1908B83C0094213B /* CoreTelephony.framework in Frameworks */,
-				84D04E581908B9230094213B /* libWSPX.a in Frameworks */,
 				5B1594DD16A7569C00FEF299 /* AssetsLibrary.framework in Frameworks */,
+				84AD26BE1924477200567A9B /* libWSPX.a in Frameworks */,
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
 				305D5FD1115AB8F900A74A75 /* MobileCoreServices.framework in Frameworks */,
@@ -192,8 +192,8 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				84D04E561908B9230094213B /* libWSPX.a */,
-				84D04E571908B9230094213B /* WSPX.h */,
+				84AD26BD1924477200567A9B /* libWSPX.a */,
+				84AD26BC1924475800567A9B /* WSPX.h */,
 				302D95EE14D2391D003F00A1 /* MainViewController.h */,
 				302D95EF14D2391D003F00A1 /* MainViewController.m */,
 				302D95F014D2391D003F00A1 /* MainViewController.xib */,
@@ -413,6 +413,11 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 500;
+				TargetAttributes = {
+					1D6058900D05DD3D006BFB54 = {
+						DevelopmentTeam = 23KBMJ8C36;
+					};
+				};
 			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CathayMobile" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -584,6 +589,8 @@
 				ARCHS = "${ARCHS_STANDARD_32_BIT}";
 				CLANG_CXX_LIBRARY = "libstdc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Cathay Life Insurance Co.";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Cathay Life Insurance Co.";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -592,10 +599,11 @@
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "CathayMobile/CathayMobile-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					/Users/admin/Documents/maa_sdk_ios_3.3.3.266,
+					"$(PROJECT_DIR)/CathayMobile/Classes",
 				);
 				OTHER_LDFLAGS = (
 					"-weak_framework",
@@ -612,6 +620,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = CathayMobile;
+				PROVISIONING_PROFILE = "45B2D396-AE7D-4623-8232-FD2F29EE44EF";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 				VALID_ARCHS = "armv7 armv7s i386";
@@ -625,16 +634,19 @@
 				ARCHS = "${ARCHS_STANDARD_32_BIT}";
 				CLANG_CXX_LIBRARY = "libstdc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Cathay Life Insurance Co.";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Cathay Life Insurance Co.";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CathayMobile/CathayMobile-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "CathayMobile/CathayMobile-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					/Users/admin/Documents/maa_sdk_ios_3.3.3.266,
+					"$(PROJECT_DIR)/CathayMobile/Classes",
 				);
 				OTHER_LDFLAGS = (
 					"-weak_framework",
@@ -651,6 +663,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = CathayMobile;
+				PROVISIONING_PROFILE = "45B2D396-AE7D-4623-8232-FD2F29EE44EF";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 				VALID_ARCHS = "armv7 armv7s i386";

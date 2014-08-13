@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m \
-  /Users/admin/Desktop/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+  /Users/admin/GitHub/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m \
+  /Users/admin/GitHub/CathayMobile/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
